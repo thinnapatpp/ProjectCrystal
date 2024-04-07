@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd951c072a5af7498a5342fa0ac33b2, type: 3}
+  m_Name: ScriptableObject_DialogueSO
+  m_EditorClassIdentifier: 
+  dialogueText:
+  - Start gather some undefine material, it call "Crystal"
+  - Bring them back to the station to enter the scaning process
+  - We will give you appropriated reward as long as you can find it for us
+  - You can open a Shop by pressing <color=#ffa500ff>[J]</color>
